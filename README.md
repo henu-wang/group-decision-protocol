@@ -1,2 +1,11 @@
-# group-decision-protocol
-Protocols for effective group decision making - https://keeprule.com
+# group decision protocol
+
+Protocols for effective group decision making
+
+## Resources
+
+- [KeepRule](https://keeprule.com) - Decision Intelligence Platform
+- [Scenarios](https://keeprule.com/en/scenarios) | [Principles](https://keeprule.com/en/principles)
+- [Masters](https://keeprule.com/en/masters) | [Blog](https://keeprule.com/en/blog)
+
+MIT - [KeepRule](https://keeprule.com)
